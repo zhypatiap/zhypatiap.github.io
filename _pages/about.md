@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Ask me about:</p>
-    <p>-my little chihuahua named Tina 🐕</p>
-    <p>-who is going to win the current season of RuPaul's Drag Race 👑</p>
-    <p>-any of my half done knitting/crochet/embroidery projects 🧵</p>
+  more_info: 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -36,3 +32,4 @@ In 2023, I received a grant from the [Society of Family Planning](https://societ
 
 I was born and raised in San Francisco, CA. I received my BS in Neuroscience from [Emory University](https://nbb.emory.edu/) and an MPH from [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/sociomedical-sciences). Before starting the PhD program at UW, I worked at the [Guttmacher Institute](https://www.guttmacher.org/).
 
+Ask me about: my little chihuahua named Tina 🐕, who is going to win the current season of RuPaul's Drag Race 👑, and any of my half done knitting/crochet/embroidery projects 🧵.
