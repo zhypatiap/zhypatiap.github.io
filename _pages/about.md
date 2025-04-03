@@ -13,7 +13,7 @@ profile:
     <p>-my little chihuahua named Tina 🐕</p>
     <p>-who is going to win the current season of RuPaul's Drag Race 👑</p>
     <p>-any of my half done knitting/crochet/embroidery projects 🧵</p>
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
