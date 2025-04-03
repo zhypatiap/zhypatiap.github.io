@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate. Mixed Methods Health Services Researcher. she/her. zoep2@uw.edu.
+subtitle: <i> PhD Candidate. Mixed Methods Health Services Researcher. she/her. zoep2@uw.edu. </i>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ I am a mixed methods health services researcher with training in epidemiology, b
 
 I joined the Health Services PhD program in 2021. For my first three years in the program, I was a research assistant with the [VA/UW Women’s Health Services Research](https://obgyn.uw.edu/research/va-uw) team led by Dr. Lisa Callegari and Dr. Kristen Gray. 
 
-In July 2024, I received an [F31 predoctoral fellowship](https://reporter.nih.gov/search/UjMXRPzu9UyRzqw9G7JK_A/project-details/10821973) from the National Institutes of Health to continue working with Dr. Gray, Dr. Callegari, and others from VA Puget Sound and the UW on my dissertation using mixed methods to understanding how to improve access, quality, and equity of contraceptive care for Veterans with autoimmune conditions. 
+In July 2024, I received an [F31 predoctoral fellowship](https://reporter.nih.gov/search/UjMXRPzu9UyRzqw9G7JK_A/project-details/10821973) from the National Institutes of Health to continue working with Dr. Gray, Dr. Callegari, and others from VA Puget Sound and the UW on my dissertation using mixed methods to understanding how to improve access, quality, and equity of contraceptive care for Veterans with autoimmune conditions. I also received a VA Puget Sound Predoctoral Fellowship to support my dissertation and study infertility diagnosis and fertility treatment inequities among Veterans.
 
 Starting the summer of 2024, I have been working with Dr. Sarah Munro and Dr. Logan Trenaman on their [Society of Family Planning funded project](https://societyfp.org/awarded_grants/societal-preferences-for-access-to-abortion-among-texas-residents-capturing-tradeoffs-using-a-discrete-choice-experiment/) exploring preferences of Texas residents related to traveling for abortion care using qualitative methods and a preference solitication survey. 
 
