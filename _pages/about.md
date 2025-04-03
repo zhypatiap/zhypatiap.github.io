@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *PhD Candidate. Mixed Methods Health Services Researcher. she/her. zoep2@uw.edu.*
+subtitle: **PhD Candidate. Mixed Methods Health Services Researcher. she/her. zoep2@uw.edu.**
 
 profile:
   align: right
