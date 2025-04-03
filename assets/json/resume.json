@@ -1,26 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zoe H. Pleasure",
+    "label": "Mixed Methods Health Services Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zoep2@uw.edu",
+    "url": "https://zhypatiap.github.io",
+    "summary": "A fourth-year PhD Candidate interested in sexual and reproductive health decision-making",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Sacramento",
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
@@ -33,29 +23,39 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Washington",
+      "location": "Seattle, Washington",
+      "url": "https://hspop.uw.edu/",
+      "area": "Health Services",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021-09",
+      "endDate": "ongoing",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "summary": "Trainee in the Graduate Certificate Program in Demographic Methods, Center for Studies in Demography & Ecology, University of Washington", "Area of Emphasis: Evaluative Sciences and Statistics"
+      "courses": ["Methods: Advanced Non-Random Methods for Inference; Advanced Qualitative Research Design and Methods; Longitudinal and Multilevel Data Analysis; Hierarchical & Incomplete Data; Causal Inference using Observational Data; Causal Inference for Biostatistics I, II, & III; Epidemiologic Methods I & II; Categorical Data Analysis; Big Data, Large Public Databases; Research Methods in Demography; Research Methods for Social and Contextual Determinants of Health",
+      "Theory/Content: Social Determinants of Population Health and Health Disparities; Preparing, Writing and Critiquing Scientific Research Proposals; Health Systems & Policy; Health Policy Research; Structural Racism & Public Health; Assessing Outcomes in Health and Medicine"]
+    }
+    {
+      "institution": "Columbia University",
+      "location": "New York, New York",
+      "url": "https://www.publichealth.columbia.edu/academics/departments/sociomedical-sciences",
+      "area": "Sociomedical Sciences",
+      "studyType": "MPH",
+      "startDate": "2016-08",
+      "endDate": "2018-05",
+      "score": "10",
+    }
+    {
+      "institution": "Emory University",
+      "location": "Atlanta, GA",
+      "url": "https://nbb.emory.edu/",
+      "area": "Neuroscience & Behavioral Biology",
+      "studyType": "BS",
+      "startDate": "2012-08",
+      "endDate": "2016-05",
+      "score": "10",
     }
   ],
   "awards": [
@@ -67,7 +67,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "trainings": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -149,18 +149,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Physics",
@@ -175,26 +163,4 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
