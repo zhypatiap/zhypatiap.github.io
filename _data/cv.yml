@@ -2,18 +2,14 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Zoe H. Pleasure
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Health Services
+      institution: University of Washington, School of Public Health, Department of Health Systems & Population Health
+      year: 
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +17,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MPH
+      institution: Columbia University, Mailman School of Public Health, Sociomedical Sciences
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BS
+      institution: Emory University
+      year: 2016
       description:
         - Description 1.
         - Description 2.
