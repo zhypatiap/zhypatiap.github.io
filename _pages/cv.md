@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: ZHPleasure_CV CV.pdf # you can also use external links here
+cv_pdf: ZHPleasure_CV.pdf # you can also use external links here
 description: Download PDF for most recent CV. Updated July 2025.
 toc:
   sidebar: left
