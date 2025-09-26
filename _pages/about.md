@@ -31,4 +31,4 @@ In 2023, I received a grant from the [Society of Family Planning](https://societ
 
 I was raised in San Francisco, CA. I received my BS in Neuroscience from [Emory University](https://nbb.emory.edu/) and an MPH from [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/sociomedical-sciences). Before starting the PhD program at UW, I worked at the [Guttmacher Institute](https://www.guttmacher.org/).
 
-Ask me about: my little chihuahua-terrier mix named Tina 🐕, who is going to win the current season of RuPaul's Drag Race 👑, and any of my half done knitting/crochet/embroidery projects 🧵.
+Ask me about: my little chihuahua-terrier mix named Tina 🐕, the Golden State Valkyries & the WNBA 🪽🏀, or any of my half done knitting/crochet/embroidery projects 🧵.
